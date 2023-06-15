@@ -15,4 +15,4 @@ month_number = int(input("Enter a month number (1-12): "))
 
 
 time_of_year = get_time_of_year(month_number)
-print("The time of year is:", time_of_year)
+print("your choosen time of season is:", time_of_year)
